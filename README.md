@@ -23,7 +23,7 @@
 
 Currently pursuing a **B.Tech in Computer Science** at GITAM University, I am passionate about leveraging **Artificial Intelligence, Machine Learning, and Data Science** to solve real-world challenges.
 
-- 🎓 B.Tech Computer Science @ **GITAM University** *(2023 – Present)* | CGPA: 7.43
+- 🎓 B.Tech Computer Science @ **GITAM University** *(2023 – Present)* | CGPA: 7.48
 - 🏙️ Based in **Bangalore, Karnataka, India**
 - 🤖 AI-ML Virtual Intern — **EduSkills × AICTE × Google for Developers**
 - 🌱 Currently learning **Machine Learning (Deep Dive)**
